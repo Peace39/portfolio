@@ -1,0 +1,95 @@
+.main-container{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+.smain-container{
+    flex: 1;
+    padding: 100px;
+    text-align: justify;
+}
+.container1{
+    flex: 1;
+} 
+.container{
+    margin-top: 150px;
+    flex:1 ;
+    vertical-align: middle;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: oxygen;
+    
+    
+}
+.btn{
+    padding: 10px;
+    border-radius: 5px;
+    padding-left: 45px;
+    padding-right: 45px;
+    font-size: large;
+    background-color: black;
+    color: white;
+}
+.btn:hover{
+    color: black;
+    background-color: gray;
+}
+.img-link{
+    padding-top: 150px;
+}
+.main-image{
+    border-radius: 15px;
+    width: 530px;
+    height: 750px;
+    margin-right: 50px;
+    
+   
+}
+img{
+    margin-left: 20px;
+}
+p{
+    font-size: x-large;
+}
+h1{
+    font-style: italic;
+    font-family: monospace;
+    font-weight: x-large;
+}
+label{
+    justify-content: space-between;
+}
+
+
+form{  
+
+    
+    width: 500px;
+    padding: 10px ;
+   
+    background-color: palegreen;
+}
+
+.peace {
+    margin: 15px 10px 10px 10px ;
+
+}
+.btm{
+    background-color :blue;
+    color: white;
+    width: 100px;
+    padding-left:0px ;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    padding-right: 0px;
+}
+
+.btm:hover{
+    background-color: orange;
+    width: 150px;
+}
+
+.peace input{
+    width: 450px;
+
+}
